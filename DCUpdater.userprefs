@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DCUpdater/download.cs">
+    <Files>
+      <File FileName="DCUpdater/Main.cs" Line="22" Column="16" />
+      <File FileName="DCUpdater/MainWindow.cs" Line="35" Column="3" />
+      <File FileName="DCUpdater/options.cs" Line="13" Column="3" />
+      <File FileName="DCUpdater/download.cs" Line="148" Column="64" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
